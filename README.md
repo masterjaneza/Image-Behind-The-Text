@@ -2,8 +2,7 @@
 
 A minimal yet stunning glassmorphic card layout featuring dynamic, image-backed typography. Designed with CSS magic and clean HTML, this component brings visual elegance to any portfolio or landing page.
 
-![![image](https://github.com/user-attachments/assets/c9fdc625-1797-40d0-a5ee-8e6ecebe8b9b)
-](preview.jpg)
+![![image](https://github.com/user-attachments/assets/c9fdc625-1797-40d0-a5ee-8e6ecebe8b9b)](preview.jpg)
 
 ## 🚀 Features
 
