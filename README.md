@@ -57,3 +57,8 @@ Inspired by modern UI trends and a relentless desire to stand out. Whether you'r
 Feel free to use, modify, or remix. No pressure. Just give credit where credit's due. 😉
 
 ---
+
+
+## 🚀 Support the Vibes  
+Smash that ⭐ star and fork this beauty — let’s build cool things together.
+
